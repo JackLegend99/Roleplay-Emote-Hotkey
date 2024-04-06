@@ -1,1 +1,1 @@
-{"banner_url": "https://www.gulfcapitalmarket.org/wp-content/uploads/2017/11/WIBC-banner-729x90.gif", "redirect_url": "https://google.at"}
+{"banner_url": "https://www.gulfcapitalmarket.org/wp-content/uploads/2017/11/WIBC-banner-729x90.gif", "redirect_url": "https://google.com"}

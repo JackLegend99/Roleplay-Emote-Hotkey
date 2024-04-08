@@ -1,1 +1,1 @@
-{"banner_url": "https://www.gulfcapitalmarket.org/wp-content/uploads/2017/11/WIBC-banner-729x90.gif", "redirect_url": "https://google.com"}
+{"banner_url": "https://raw.githubusercontent.com/JackLegend99/Roleplay-Emote-Hotkey/main/banner.png", "redirect_url": "https://ecro.short.gy/9cylPH"}

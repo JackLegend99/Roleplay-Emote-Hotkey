@@ -2,6 +2,9 @@
 
 Roleplay Emote Hotkey ist eine benutzerfreundliche Desktop-Anwendung, die entwickelt wurde, um dein Rollenspiel-Erlebnis in Online-Spielen zu verbessern, indem sie schnellen Zugriff auf Emotes durch anpassbare Hotkeys bietet.
 
+![grafik](https://github.com/JackLegend99/Roleplay-Emote-Hotkey/assets/104882374/d6dacb18-c0d0-4486-946c-fb7b8e168bd0)
+
+
 ## Features
 
 - **Benutzerdefinierte Emotes**: Definiere deine eigenen Emotes und weise ihnen spezifische Hotkeys zu.

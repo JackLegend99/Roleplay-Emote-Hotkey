@@ -9,20 +9,17 @@ Roleplay Emote Hotkey ist eine benutzerfreundliche Desktop-Anwendung, die entwic
 - **Einfache Konfiguration**: Intuitive Benutzeroberfläche zum Hinzufügen, Bearbeiten und Löschen von Emotes.
 - **Verzögerungssteuerung**: Einstellbare Verzögerung zwischen Tastendrücken für nahtlose Emote-Ausführung.
 - **Dunkler Modus**: Umschaltbarer Dunkelmodus für angenehmes Betrachten bei verschiedenen Lichtverhältnissen.
-- **Banner-Anzeige**: Anzeige von Bannern oder Werbebildern am unteren Rand des Anwendungsfensters.
 
 ## Wie es funktioniert
 
 1. **Emotes definieren**: Füge deine Lieblings-Emotes zusammen mit ihren entsprechenden Hotkeys in die Anwendungsoberfläche ein.
 2. **Emotes ausführen**: Drücke einfach den zugewiesenen Hotkey, um das zugehörige Emote in deinem Spiel oder Chat-Programm auszulösen.
 3. **Anpassung**: Passe Einstellungen wie die Verzögerung zwischen Tastendrücken an und aktiviere den Dunkelmodus nach deinen Wünschen.
-4. **Banner-Anzeige**: Optional können Banner oder Werbebilder angezeigt werden, um dein Erlebnis anzupassen.
 
 ## Installation
 
 1. Lade die neueste Version von der [Releases](https://github.com/JackLegend99/Roleplay-Emote-Hotkey/releases)-Seite herunter.
-2. Führe den Installer aus und folge den Anweisungen auf dem Bildschirm, um die Installation abzuschließen.
-3. Starte die Roleplay Emote Hotkey-Anwendung von deinem Desktop oder dem Startmenü aus.
+2. Starte die Roleplay Emote Hotkey-Anwendung von deinem Desktop oder dem Startmenü aus.
 
 ## Verwendung
 

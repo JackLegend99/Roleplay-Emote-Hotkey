@@ -27,13 +27,17 @@ Roleplay Emote Hotkey ist eine benutzerfreundliche Desktop-Anwendung, die entwic
 1. Lade die neueste Version von der [Releases](https://github.com/JackLegend99/Roleplay-Emote-Hotkey/releases)-Seite herunter.
 2. Starte die Roleplay Emote Hotkey-Anwendung von deinem Desktop oder dem Startmenü aus.
 
-## Verwendung
+### Verwendung
 
-1. Öffne die Roleplay Emote Hotkey-Anwendung.
-2. Klicke auf die Schaltfläche "Emote hinzufügen", um ein neues Emote hinzuzufügen.
-3. Gib den gewünschten Emote-Text ein und weise ihm einen Hotkey für den schnellen Zugriff zu.
-4. Klicke auf "Speichern", um die Emote-Konfiguration zu speichern.
-5. Drücke den zugewiesenen Hotkey, um das Emote in deinem Spiel oder Chat-Programm auszuführen.
+1. **Starten der Anwendung**: Starten Sie die Anwendung, indem Sie `python main.py` in Ihrem Terminal oder der Eingabeaufforderung ausführen.
+
+2. **Hinzufügen von Emotes**: Klicken Sie auf die Schaltfläche "Emote hinzufügen", um neue Emotes hinzuzufügen. Geben Sie den Emote-Text ein und weisen Sie ihm einen Hotkey zu.
+
+3. **Festlegen von Hotkeys**: Um einen Hotkey für einen Emote festzulegen, geben Sie die gewünschte Kombination im "Hotkey"-Feld des Emote-Eintrags ein. Unterstützte Hotkey-Formate sind einzelne Buchstaben (Kleinbuchstaben von a-z), Zahlen, Funktionstasten (z.B. F1, F2) und Kombinationen mit Alt und Strg (z.B. Alt+A, Strg+1).
+
+4. **Konfiguration exportieren**: Klicken Sie auf die Schaltfläche "Exportieren", um Ihre Emote-Konfiguration in einer JSON-Datei zu exportieren. Dadurch können Sie Ihre Konfiguration sichern oder mit anderen teilen.
+
+5. **Konfiguration importieren**: Klicken Sie auf die Schaltfläche "Importieren", um eine zuvor exportierte Emote-Konfiguration aus einer JSON-Datei zu importieren.
 
 ## Hinweis zu Antiviren-Programmen
 

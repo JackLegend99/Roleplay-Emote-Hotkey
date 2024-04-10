@@ -4,6 +4,8 @@ Roleplay Emote Hotkey ist eine benutzerfreundliche Desktop-Anwendung, die entwic
 
 ![grafik](https://github.com/JackLegend99/Roleplay-Emote-Hotkey/assets/104882374/d6dacb18-c0d0-4486-946c-fb7b8e168bd0)
 
+## Funktioniert mit
+
 ![roleplay Emote Hotkey](https://github.com/JackLegend99/Roleplay-Emote-Hotkey/assets/104882374/fbf8a858-4c53-45cf-b2ea-6f917a184f4d)
 
 ## Features

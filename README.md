@@ -29,7 +29,7 @@ Roleplay Emote Hotkey ist eine benutzerfreundliche Desktop-Anwendung, die entwic
 
 ### Verwendung
 
-1. **Starten der Anwendung**: Starten Sie die Anwendung, indem Sie `python main.py` in Ihrem Terminal oder der Eingabeaufforderung ausführen.
+1. **Starten der Anwendung**: Starten Sie die Anwendung, indem Sie auf `Roleplay Emote Hotkey.exe` klicken und kurz warten.
 
 2. **Hinzufügen von Emotes**: Klicken Sie auf die Schaltfläche "Emote hinzufügen", um neue Emotes hinzuzufügen. Geben Sie den Emote-Text ein und weisen Sie ihm einen Hotkey zu.
 

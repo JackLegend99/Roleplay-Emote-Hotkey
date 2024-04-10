@@ -47,7 +47,7 @@ Mitwirkungen sind willkommen! Wenn du auf Fehler stößt, Verbesserungsvorschlä
 
 ## Lizenz
 
-Roleplay Emote Hotkey ist unter der [MIT-Lizenz](LICENSE.md) lizenziert. Weitere Informationen findest du in der [Lizenzdatei](LICENSE.md).
+Roleplay Emote Hotkey ist unter der [Lizenz](LICENSE.md) lizenziert. Weitere Informationen findest du in der [Lizenzdatei](LICENSE.md).
 
 ## Kontakt
 

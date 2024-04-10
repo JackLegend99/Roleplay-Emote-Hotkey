@@ -33,7 +33,7 @@ Roleplay Emote Hotkey ist eine benutzerfreundliche Desktop-Anwendung, die entwic
 
 2. **Hinzufügen von Emotes**: Klicken Sie auf die Schaltfläche "Emote hinzufügen", um neue Emotes hinzuzufügen. Geben Sie den Emote-Text ein und weisen Sie ihm einen Hotkey zu.
 
-3. **Festlegen von Hotkeys**: Um einen Hotkey für einen Emote festzulegen, geben Sie die gewünschte Kombination im "Hotkey"-Feld des Emote-Eintrags ein. Unterstützte Hotkey-Formate sind einzelne Buchstaben (Kleinbuchstaben von a-z), Zahlen, Funktionstasten (z.B. F1, F2) und Kombinationen mit Alt und Strg (z.B. Alt+A, Strg+1).
+3. **Festlegen von Hotkeys**: Um einen Hotkey für einen Emote festzulegen, geben Sie die gewünschte Kombination im "Hotkey"-Feld des Emote-Eintrags ein. Unterstützte Hotkey-Formate sind einzelne Buchstaben (Kleinbuchstaben von a-z), Zahlen (0-9), Funktionstasten (z.B. F1, F2) und Kombinationen mit Alt und Strg (z.B. Alt+A, Strg+1).
 
 4. **Konfiguration exportieren**: Klicken Sie auf die Schaltfläche "Exportieren", um Ihre Emote-Konfiguration in einer JSON-Datei zu exportieren. Dadurch können Sie Ihre Konfiguration sichern oder mit anderen teilen.
 

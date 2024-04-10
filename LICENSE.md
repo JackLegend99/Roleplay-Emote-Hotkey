@@ -1,4 +1,4 @@
-Nutzungsvereinbarung für Roleplay Emote Hotkey by JackLegend99
+## Nutzungsvereinbarung für Roleplay Emote Hotkey by JackLegend99
 
 1. Erlaubnis zur Nutzung:
    Ihnen wird hiermit das nicht exklusive Recht eingeräumt, die Software [Name Ihrer Software] (die "Software") zu nutzen, vorbehaltlich der Bedingungen und Einschränkungen dieser Vereinbarung.

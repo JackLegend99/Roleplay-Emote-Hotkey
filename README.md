@@ -43,7 +43,7 @@ Roleplay Emote Hotkey ist eine benutzerfreundliche Desktop-Anwendung, die entwic
 
 Bitte beachte, dass es von einigen Antiviren-Programmen fälschlicherweise als verdächtig erkannt werden kann. Wir haben bereits Kontakt mit den entsprechenden Anbietern aufgenommen und arbeiten daran, das Problem zu beheben. Sollte dein Antiviren-Programm Roleplay Emote Hotkey fälschlicherweise erkennen, kannst du es als Ausnahme hinzufügen, da du ihm zu 100% vertrauen kannst.
 
-Mehr Informationen dazu findest du auf [Virustotal](https://www.virustotal.com/gui/file/52579952922fa0398e1238bc7336bd98c2eb427a0fc697071384ff08e6bd6a8a/behavior), wo die Transparenz unserer Anwendung demonstriert wird.
+Mehr Informationen dazu findest du auf [Virustotal](https://www.virustotal.com/gui/file/52579952922fa0398e1238bc7336bd98c2eb427a0fc697071384ff08e6bd6a8a/detection), wo die Transparenz unserer Anwendung demonstriert wird.
 
 ## Mitwirkungen
 
